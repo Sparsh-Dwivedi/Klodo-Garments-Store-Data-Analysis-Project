@@ -21,7 +21,7 @@ The Klodo Garments Store wants to create an annual sales report for 2022. So tha
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make <a href="<iframe width="700" height="650" frameborder="0" scrolling="no" src="?AllowTyping=True&ActiveCell='Klodo%20Garment%20Store%20Report%202022'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>">dashboard interactive</a> and dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://1drv.ms/x/c/681428b05895901e/IQQDesUvFshhQ5MsyDmM6RZuAZTa1TkfBZqEv9b3T9W7gwk">dashboard interactive</a> and dynamic.
 
 ## **Dashboard**
 ![Alt text of the image](https://github.com/Sparsh-Dwivedi/Klodo-Garments-Store-Data-Analysis-Project/blob/main/dashboard.png)
