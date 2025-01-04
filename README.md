@@ -4,7 +4,7 @@
 
 The Klodo Garments Store Data Analysis project aims to provide valuable insights into the store's performance, sales trends, and customer demographics. By utilizing Excel's data analysis and visualization capabilities, this project transforms raw data into meaningful information. The dataset consists of various columns, including order details, customer information, sales figures, and product-related information.
 
-## **Objective: **
+## **Objective:**
 The Klodo Garments Store wants to create an annual sales report for 2022. So that, the owner of the Klodo Garments Store can understand their customers and grow more sales in 2023.
 
 ## **Key Performance Indicators (KPIs)**
@@ -42,7 +42,8 @@ The Klodo Garments Store wants to create an annual sales report for 2022. So tha
 
 ## **Outcome and Benefits:**
 
-The Klodo Garments StoreData Analysis project equips stakeholders with actionable insights, enabling data-driven decision-making. Key takeaways include:
+The Klodo Garments StoreData Analysis project equips stakeholders with actionable insights, enabling data-driven decision-making.
+ Key takeaways include:
 
 •	Understanding the store's performance among different genders.
 •	Identifying peak sales months and potential seasonal trends.
