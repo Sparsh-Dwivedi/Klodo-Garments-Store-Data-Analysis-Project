@@ -26,6 +26,10 @@ The Klodo Garments Store wants to create an annual sales report for 2022. So tha
 ## **Dashboard**
 ![Alt text of the image](https://github.com/Sparsh-Dwivedi/Klodo-Garments-Store-Data-Analysis-Project/blob/main/dashboard.png)
 
+## **Report**
+- Klodo Garments Store Data Analysis <a href="https://1drv.ms/x/c/681428b05895901e/IQQDesUvFshhQ5MsyDmM6RZuAZTa1TkfBZqEv9b3T9W7gwk"> Report Link 
+
+
 ## **Project Insights**
 
 - Women customers are more likely to buy products compared to men (~65%).
