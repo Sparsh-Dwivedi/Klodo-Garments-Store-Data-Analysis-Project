@@ -7,7 +7,7 @@ The Klodo Garments Store Data Analysis project aims to provide valuable insights
 ## **Objective: **
 The Klodo Garments Store wants to create an annual sales report for 2022. So that, the owner of the Klodo Garments Store can understand their customers and grow more sales in 2023.
 
-## ** Key Performance Indicators (KPIs)**
+## **Key Performance Indicators (KPIs)**
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
@@ -21,11 +21,10 @@ The Klodo Garments Store wants to create an annual sales report for 2022. So tha
 - Verify data for any missing values and anomalies, and sort out the same.
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make <a href=" https://github.com/Sparsh-Dwivedi/Klodo-Garments-Store-Data-Analysis-Project/blob/main/dashboard.png
-">dashboard interactive</a> and dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make <a href="https://github.com/Sparsh-Dwivedi/Klodo-Garments-Store-Data-Analysis-Project/blob/main/dashboard.png">dashboard interactive</a> and dynamic.
 
 ## **Dashboard**
-![Alt text of the image]( https://github.com/Sparsh-Dwivedi/Klodo-Garments-Store-Data-Analysis-Project/blob/main/dashboard.png)
+![Alt text of the image](https://github.com/Sparsh-Dwivedi/Klodo-Garments-Store-Data-Analysis-Project/blob/main/dashboard.png)
 
 ## **Project Insights**
 
