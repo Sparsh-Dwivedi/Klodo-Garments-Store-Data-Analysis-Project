@@ -36,19 +36,19 @@ The Klodo Garments Store wants to create an annual sales report for 2022. So tha
 
 ## **Dashboard Interactivity:**
 
-•	Slicers are integrated to make the dashboard dynamic and interactive.
-•	Users can filter data by age group and gender to view personalized insights.
-•	This interactivity enhances the user experience and provides more detailed information.
+*	Slicers are integrated to make the dashboard dynamic and interactive.
+*	Users can filter data by age group and gender to view personalized insights.
+*	This interactivity enhances the user experience and provides more detailed information.
 
 ## **Outcome and Benefits:**
 
 The Klodo Garments StoreData Analysis project equips stakeholders with actionable insights, enabling data-driven decision-making.
- Key takeaways include:
+ <&nbsb> Key takeaways include:
 
-•	Understanding the store's performance among different genders.
-•	Identifying peak sales months and potential seasonal trends.
-•	Recognizing the most critical order statuses contributing to sales.
-•	Gaining insights into customer demographics and their order behavior.
+*	Understanding the store's performance among different genders.
+*	Identifying peak sales months and potential seasonal trends.
+*	Recognizing the most critical order statuses contributing to sales.
+*	Gaining insights into customer demographics and their order behavior.
 
 This Excel dashboard serves as a valuable tool for store management to optimize strategies, target specific customer segments, and make informed decisions to enhance overall business performance at Vrinda Store.
 
