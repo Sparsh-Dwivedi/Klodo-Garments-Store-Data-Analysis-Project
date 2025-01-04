@@ -43,7 +43,8 @@ The Klodo Garments Store wants to create an annual sales report for 2022. So tha
 ## **Outcome and Benefits:**
 
 The Klodo Garments StoreData Analysis project equips stakeholders with actionable insights, enabling data-driven decision-making.  
-    Key takeaways include:
+   
+     Key takeaways include:
 
 *	Understanding the store's performance among different genders.
 *	Identifying peak sales months and potential seasonal trends.
